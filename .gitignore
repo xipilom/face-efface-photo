@@ -1,0 +1,9 @@
+# Fichiers de notes et brouillons (pas l'application)
+*.txt
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers système macOS
+.DS_Store
